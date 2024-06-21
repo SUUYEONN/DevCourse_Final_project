@@ -1,4 +1,5 @@
 
 ## 파일 무시
-airbnb-recruiting-new-user-bookings/sessions.csv
+Datasets/sessions.csv
 .gitignore.DS_Store
+.DS_Store
